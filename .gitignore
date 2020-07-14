@@ -1,4 +1,5 @@
+doit.sh
 inbox
-./inbox
 inbox/*
-./inbox/*
+tmp
+tmp/*
